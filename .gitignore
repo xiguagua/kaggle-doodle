@@ -158,3 +158,6 @@ fabric.properties
 # training data
 *.png
 *.npy
+
+# visual studio code
+.vscode
